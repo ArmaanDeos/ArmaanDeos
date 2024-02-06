@@ -57,7 +57,7 @@ Languages and Tools:
       src="https://img.shields.io/badge/redux-%23578ED6.svg?flat-square&logo=redux&logoColor=white"
     />
 
-    <img
+   <img
       alt="MySQL"
       src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"
     />
