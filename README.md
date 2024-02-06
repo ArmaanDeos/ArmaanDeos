@@ -40,8 +40,7 @@ Languages and Tools:
       alt="Javascript"
       src="https://img.shields.io/badge/javascript-%23F0.svg?style=flat-square&logo=javascript&logoColor=white"
     />
-
-    <img
+ <img
       alt="CSS3"
       src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"
     />
