@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Armaan-red)](https://www.youtube.com/channel/UCITUGN6nDr5HLHQjMoCBbug)
 [![Linkedin Badge](https://img.shields.io/badge/-Armaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/armaan-ahmad-7b24a222b/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Armaan-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Armaan-green)]()
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Armaan-yellow)](https://stackoverflow.com/users/18286829/armaan-ahmad)
 
 
