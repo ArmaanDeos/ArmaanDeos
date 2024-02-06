@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Armaan-yellow)](https://stackoverflow.com/users/18286829/armaan-ahmad)
 
 
-🌟 Greetings fellow coders! I'm Armaan Ahmad, a passionate Full Stack MERN Developer with a flair for innovation. Armed with MongoDB, Express.js, React.js, and Node.js, I embark on a journey to transform ideas into reality.Whether it's building sleek interfaces or powerful backend systems, I'm all about making the web more awesome.Dive into my repositories to explore my latest projects and contributions. Let's code something amazing together! 🚀
+👋 Hey there! I'm Armaan Ahmad, a passionate JavaScript and MERN stack developer, dedicated to building cutting-edge web applications. With a strong foundation in JavaScript and expertise in MongoDB, Express.js, React.js, and Node.js, I specialize in creating seamless and scalable solutions that drive innovation. Explore my repositories to see my latest projects and contributions. Let's collaborate and create something amazing together! 🚀
 
 
 ![Visitor Count](https://profile-counter.glitch.me/ArmaanDeos/count.svg)
